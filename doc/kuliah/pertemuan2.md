@@ -1,0 +1,10 @@
+Spatial Data
+Is data focused on the issue of geographical representation of objects on the Earth above. Spatial data is generally based on a map that contains a projection of the whole phenomenon that exists on the Earth. The phenomenon occurs in natural phenomena, as well as a man-made phenomenon.
+Most of the data will be handled in a GIS is a geographic-oriented data, have certain coordinates are as basic reference and has two important parts that make it different from any other data that is entered into the sharing of location information (spatial) information and description. As for the penjelasnya as follows:
+1. Informasii location (spatial), is the information menitiberatkan on a line of geography coordinates (latitude and longitude) and XYZ coordinates are cartesuan (an abscissa, ordinat and altitude), including projection system
+2. a description of the Information or the information of non-spatial is a site that has some information related to the location.
+In the rapid development of the map has been growing and represents an object above the Earth and also under the surface of the Earth. Therefore, the spatial data type is divided into two sections as follows:
+Vector data is data that can be menampikan a form file, which in its use, there is a point, line or polygon, disetai curves that form later in the define in a kartesia two dimensional coordinate system (X, Y)
+Raster data is mode which is capable of placing and storing spatial data by showing the structure of the matrix or pixels that make up the grid, the level of accuracy of raster data model is highly dependent on the resolution or size of pikselnya against an object on the surface of the Earth.
+
+Conclusion: In the material we discuss about spatial data focused against 2 types of vector data, i.e. data rester. Vector data we know of focused on its own files and data for rester itself that shows the structure of a matrix to form a grid. Above also explained some of the ketilitian level is heavily dependent on the level of excess resolution to view an object at the Earth's surface
