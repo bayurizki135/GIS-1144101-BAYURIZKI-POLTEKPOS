@@ -1,0 +1,7 @@
+Introduction
+MapServer is an Open Source application that can bring up a map data accessible over the web. The technology was first developed by the University of Minesotta United States. Presence of MapServer makes the job of making Digital Maps become more easy and interactive. The interactive map is here taken to mean that the user can easily view and modify the look of the map such as zoom, rotate, and display information (such as showing info Street) and analysis (such as determining the route) on the surface of geography. The following diagram illustrates how users interact with an interactive map-based MapServer.
+How the MapServer is working
+Server folder to work side by side with the application on the web server. The Web Server receives the request map via MapServer. MapServer mengenerate request against the map and send it to the web server as shown in the following figure.
+How the MapServer is working
+Server folder to work side by side with the application on the web server. The Web Server receives the request map via MapServer. MapServer mengenerate request against the map and send it to the web server as shown in the following figure.
+The main function of the MapServer is doing the reading of data from many sources and put them into layers simultaneously into file graphic. One of the layernya could be in the form of satellite images. Each layer overlay each other with each other and shown into the web browser. A good example is overlapping display is shown as shown below.
